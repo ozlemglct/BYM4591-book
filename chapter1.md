@@ -6,6 +6,10 @@
 
 ![Şekil 1.1 Tanıtıcı Diyagram](images/data-analysis.png)
 
+Linux, 1991 yılında Finlandiyalı bir üniversite öğrencisi olan Linus Torvalds tarafından, daha eski işletim sistemlerinden birisi olan UNIX'ten esinlenerek geliştirilmeye başlanmıştır. Linus hâlen çekirdek geliştirme ekibindedir.
+Linus Torvalds, Unix benzeri MINIX işletim sisteminden daha iyi bir işletim sistemi yaratmak düşüncesiyle 1991 Nisan ayında işletim sistemi çekirdeğini oluşturmaya başladı. 25 Ağustos 1991'de, comp.os.minix adresli MINIX haber grubuna gönderdiği yazıda yeni bir işletim sistemi geliştirmekte olduğunu ve ilgilenen herkesin yardımını beklediğini yazdı. Daha sonra 17 Eylül 1991'de Linux'un ilk sürümü olan 0.01'i İnternet'te yayınladı. Kısa bir süre sonra, 5 EKim 1991'de temel özellikleriyle beraber ilk resmi Linux sürümü olan 0.02'yi yayınladı.
+Linux’un önemli bir yanı da GNU Projesi'nin eksik olan bir parçasını doldurmasıdır. GNU Projesi çerçevesinde yaratılacak olan Unix benzeri işletim sisteminin çoğu parçaları bitmişti. Yapılmayan en önemli parça işletim sisteminin çekirdeği idi. Bu eksikte Linux tarafından kapatılmış oldu.
+
 Açık kaynak kodlu ve özgür bir işletim sistemi çekirdeği olan Linux, Unix işletim sistemi kaynak alınarak oluşturulmuştur. İşletim sistemi çekirdeği, yazılım ve araçların tümünü ifade etmek için GNU/Linux terimi kullanılır. Linux sayesinde GNU (GNU is Not Unix) Projesi'nin en büyük eksiği olan çekirdeği tamamlanmıştır.
 
 Unix işletim sistemi ile uyumlu olarak geliştirilmeye başlanması, GNU/Linux'un taşınabilir olmasını ve kullanıcıların kolayca uyum sağlayabilmesini kolaylaştırmıştır. Bunun yanında, GNU/Linux kodları sil baştan yazılmış ve temel metin biçimlendirici olarak TeX kullanılmıştır. Yazılımın geliştirilmesi, internet üzerinden iletişim kurabilen kullanıcıların (programcıların) işbirliği ile sağlanmıştır ve günümüzde de devam etmektedir. GNU/Linux'un bağlı olduğu GNU projesi, özgür yazılımlar oldukları için kullanılmaları sağlanan ve kullanıcıların kendi amaçları doğrultusunda geliştirilen işletim sistemlerini ve programları içerir.
@@ -219,6 +223,7 @@ Yukarıda anlatılanlar, terminalde çalışırken uzantılar rastgele seçilebi
 
 Bilişim veya programlama türündeki bilgilerin en hızlı öğrenilmesi pratik yapma ve egzersiz ile mümkün olacaktır. Bu kitabı çok kısa sürede okuyup anlayabilirsiniz fakat bir terminal karşısına geçip pratik yapmazsanız maalesef bu kitapta anlatılanları kavramanız mümkün olmayacaktır. Aşağıda, terminal komutları hakkında pratik yapabilmeniz için kullanılabilecek web tabanlı kaynaklar listelenmiştir.
 
+* [History] (https://tr.wikipedia.org/wiki/Linux)  
 * [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) : Bu terminal oyunu yeni başlayanlara klasör ve dosyalarda gezinme kavramlarını öğretmek amacıyla yazılmıştır. Yeni başlayanlar için, terminale alışmak için oldukça yararlı olacaktır.
 * [Tutorials Point - Unix Terminal Online](http://www.tutorialspoint.com/unix_terminal_online.php) : Bu websayfasında, online olarak tam fonksiyonlu bir terminal kullanabilirsiniz. Herhangi bir program kurmadan veya sabit bir makinede kullanıcı oluşturmadan bu websayfasında Linux terminalini kullanabilirsiniz. Sol taraftaki gizli panel sayesinde klasör ile etkileşebilirsiniz, çalışma klasörünüze dosya yükleyebilir veya bu klasörden dosya indirebilirsiniz. Dilerseniz bu kitapta kullanılan dosyaları çalıştığınız klasöre indirerek hiç zaman kaybetmeden kitaptaki komutları çalışmaya başlayabilirsiniz.
 * [ExplainShell](http://explainshell.com/) : Bu websayfasında karmaşık ve uzun komutlar görsel olarak açıklanmaktadır.
